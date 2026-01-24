@@ -34,7 +34,7 @@ Il codice e gli strumenti qui ospitati sono pensati per integrarsi direttamente 
 - 📢 **Discord ufficiale** per supporto e coordinamento 
 - 🛠️ sistemi di script condivisi
 - 🔄 repository open-source visibili e mantenuti pubblicamente  
-- Discord: https://discord.gg/Jrm2Z26ad3
+- Discord: https://discord.gg/Skw6unXVHG
 
 
 ---
@@ -43,7 +43,7 @@ Il codice e gli strumenti qui ospitati sono pensati per integrarsi direttamente 
 ## 📎 Risorse Utili
 
 - 🌐 *Skull Network Italia – Community & Info*: https://skullnetworkitalia.zapto.org/  
-- 💬 *Discord Community*: https://discord.gg/Jrm2Z26ad3  
+- 💬 *Discord Community*: https://discord.gg/Skw6unXVHG
 
 
 ---
