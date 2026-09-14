@@ -53,6 +53,4 @@ Il codice e gli strumenti qui ospitati sono pensati per integrarsi direttamente 
 ## Programmatori Principali
 - 👨‍💻 *Profilo GitHub di riferimento (bitpredator)*: https://github.com/bitpredator - Sviluppatore principale e manutentore degli script server.
 - 👨‍💻 *Profilo GitHub di riferimento (kelepony006-sudo)*: https://github.com/kelepony006-sudo - Collaboratore e co-sviluppatore di moduli e script.
-- 👨‍💻 *Profilo GitHub di riferimento (miky-82)*: https://github.com/Miky-82 - Membro del team di sviluppo e supporto tecnico.
-- 👨‍💻 *Profilo GitHub di riferimento (Nightbatman82)*: https://github.com/Nightbatman92 - Membro del team di sviluppo e supporto tecnico.
 - 👨‍💻 *Profilo GitHub di riferimento (HearDexvil)*: https://github.com/HearDexvil - Membro del team di sviluppo e supporto tecnico.
